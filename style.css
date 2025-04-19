@@ -1,0 +1,14 @@
+@charset "UTF-8";
+header h1{ color: rgb(37, 122, 71); text-align: center;}
+header h2{ color: rgb(9, 249, 133); text-align: center; text-decoration: none;}
+body{ background-color: black;}
+img{  text-align: center; border-color: chartreuse;
+margin: auto;border-radius: 45%; text-align: center; display: block;} 
+p{color: hsl(123, 95%, 36%); text-align: center;}
+ a{ text-align: center;;display: block; color: rgb(201, 214, 113);} 
+ h1{color: forestgreen; text-align: center;}  
+ h2{ color: darkgreen; text-align: center;}
+
+
+
+
