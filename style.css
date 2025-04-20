@@ -11,4 +11,27 @@ p{color: hsl(123, 95%, 36%); text-align: center;}
 
 
 
+ .minha-caixa {
+    width: 300px;          /* Largura da caixa */
+    height: 150px;         /* Altura da caixa */
+    background-color: hsl(139, 68%, 42%); /* Cor de fundo */
+    border: 2px solid #23a966;    /* Borda da caixa */
+    padding: 20px;             /* Espaçamento interno */
+    box-shadow: 2px 2px 8px rgba(19, 128, 165, 0.2); /* Sombra opcional */
+    border-radius: 15px;        /* Cantos arredondados */
+  margin: auto;}
+
+
+  .minha-caixa2 {
+    width: 300px;          /* Largura da caixa */
+    height: 150px;         /* Altura da caixa */
+    background-color: hsl(139, 68%, 42%); /* Cor de fundo */
+    border: 2px solid #23a966;    /* Borda da caixa */
+    padding: 20px;             /* Espaçamento interno */
+    box-shadow: 2px 2px 8px rgba(19, 128, 165, 0.2); /* Sombra opcional */
+    border-radius: 15px;        /* Cantos arredondados */
+  margin: auto;}
+  div>a {background-color: black; }
+
+
 
